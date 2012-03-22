@@ -1,0 +1,80 @@
+// Place all the styles related to the baby party here.
+
+html {
+	background-image: url("images/baby.png");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:right;
+background-size:100%;
+border: solid;
+border-color: #FFEBCD;
+}
+#mainContainer{
+	margin: 50px 100px 80px 100px;
+	padding: 10px 15px 8px 100px;
+}
+#img{
+	margin: 80px 20px 0px 0px;
+	float: left;
+}
+
+p {
+font-family: "Verdana";
+line-height: 125%;
+border-style:solid;
+font-color:	#4B0082;
+margin: 50px 100px 80px 100px;
+}
+
+p:hover {
+background-color: 	#FFEBCD;
+}
+h1 {
+line-height: 200%;
+font-family: "Helviteca";
+color:		#696969;
+}
+h2 {
+line-height: 130%;
+font-family: "Helviteca";
+color:		#696969;
+}
+
+
+h3{
+line-height: 200%;
+font-family: "Helviteca";
+color: 	#696969;
+}
+
+table, th, td
+{
+width:50%;
+}
+
+
+#footer {
+	white-space:nowrap;
+font-color: white;
+text-align:center ;
+background-color:	#FFEBCD;
+border: solid;
+border-color: #FFEBCD;
+width: 100%;
+margin: 0px 0px 0px 0px;
+height: auto;
+}
+#navigation {
+	white-space:nowrap;
+font-color: white;
+text-align:center ;
+background-color:	#FFEBCD;
+border: solid;
+border-color: #FFEBCD;
+width: 100%;
+height: auto;
+}
+
+a{
+	line-height: 300%;	
+}

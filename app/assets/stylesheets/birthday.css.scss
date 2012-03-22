@@ -1,0 +1,74 @@
+// Place all the styles related to the birthday party here.
+
+html {
+border: solid;
+border-color: #FFD700;
+}
+
+#mainContainer{
+	margin: 50px 100px 80px 100px;
+	padding: 10px 15px 8px 100px;
+}
+#img{
+	margin: 10px 50px 0px 140px;
+}
+
+p {
+font-family: "Verdana";
+line-height: 125%;
+border-style:solid;
+font-color:	#4B0082;
+margin: 50px 100px 80px 100px;
+}
+
+p:hover {
+background-color: 	#FFD700;
+}
+
+h1 {
+line-height: 200%;
+font-family: "Helviteca";
+color:		#696969;
+}
+h2 {
+line-height: 130%;
+font-family: "Helviteca";
+color:		#696969;
+}
+
+
+h3{
+line-height: 200%;
+font-family: "Helviteca";
+color: 	#696969;
+}
+
+table, th, td
+{
+width:50%;
+}
+
+#footer {
+		white-space:nowrap;
+	font-color: white;
+	text-align:center ;
+	background-color:	#FFD700;
+	border: solid;
+	border-color: 	#FFD700;
+	width: 100%;
+	height: auto;
+}
+#navigation {
+		white-space:nowrap;
+	font-color: white;
+	text-align:center ;
+	background-color:		#FFD700;
+	border: solid;
+	border-color: 	#FFD700;
+	width: 100%;
+	height: auto;
+}
+
+a{
+	line-height: 300%;	
+}

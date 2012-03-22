@@ -1,0 +1,80 @@
+// Place all the styles related to the generic party here.
+
+html{
+	border: solid;
+	border-color: #FFA500;
+	border-size: 100%;
+} 
+
+#mainContainer {
+	margin: 10px 100px 80px 100px;
+	padding: 10px 15px 8px 100px;	
+}
+
+
+
+#img{
+margin: 50px 50px 0px 200px;
+
+}
+
+p {
+font-family: "Verdana";
+line-height: 125%;
+border-style:solid;
+font-color:	#4B0082;
+margin: 50px 100px 80px 100px;
+}
+
+p:hover {
+background-color: 	#FFA500;
+}
+
+h1 {
+line-height: 200%;
+font-family: "Times";
+color:	#FFA500;
+}
+h2 {
+line-height: 130%;
+font-family: "Helviteca";
+color:	#FFA500;
+}
+
+
+h3{
+line-height: 200%;
+font-family: "Helviteca";
+color: 	#FFA500;
+}
+
+table, th, td
+{
+width:50%;
+color: #FFA500;
+}
+
+
+#footer {
+float:center;
+text-align: center;
+white-space:nowrap;
+background-color:	#FFA500;
+border: solid;
+border-color: #FFA500;
+width: 100%;
+height: auto;
+}
+#navigation {
+	text-align: center;
+	white-space:nowrap;
+background-color:	#FFA500;
+border: solid;
+border-color: #FFA500;
+width: 100%;
+height: auto;
+}
+a{
+	line-height: 300%;	
+}
+

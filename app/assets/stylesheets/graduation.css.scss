@@ -1,0 +1,91 @@
+// Place all the styles related to the graduation party here.
+
+html {
+	border: solid;
+	border-color:	#F5F5DC;
+}
+#mainContainer{
+	margin: 50px 100px 80px 100px;
+	padding: 10px 15px 8px 100px;
+}
+
+
+#container{
+	width: 800px;
+}
+
+#img{
+	margin: 80px 50px 0px 0px;
+	float: left;
+}
+
+	h1 {
+	line-height: 200%;
+	font-family: "times new roman";
+	color:		#696969;
+	}
+	h2 {
+	line-height: 130%;
+	font-family: "Helviteca";
+	color:		#696969;
+	}
+
+
+	h3{
+	line-height: 200%;
+	font-family: "Helviteca";
+	color: 	#696969;
+	}
+
+	table, th, td
+	{
+	width:50%;
+	}
+
+	p {
+	font-family: "Verdana";
+	line-height: 125%;
+	border-style:solid;
+	font-color:	#4B0082;
+
+	}
+	p:hover {
+	background-color: 	#F5F5DC;
+	}
+	
+	a{
+	font-family: "Verdana";
+	line-height: 300%;
+	}
+
+	a:hover {
+		text-decoration: bold;
+	}
+
+
+	a:hover {
+	text-decoration: bold;
+	}
+	
+
+	#footer {
+		white-space:nowrap;
+	font-color: white;
+	text-align:center ;
+	background-color:	#F5F5DC;
+	border: solid;
+	border-color: #F5F5DC;
+	width: 100%;
+	height: auto;
+	}
+	#navigation {
+	white-space:nowrap;
+	font-color: white;
+	text-align:center ;	
+	background-color:	#F5F5DC;
+	border: solid;
+	border-color: #F5F5DC;
+	width: 100%;
+	height: auto;
+
+}
